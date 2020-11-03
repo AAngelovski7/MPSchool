@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce8cb6cc-dd3c-4b6c-bda0-5f69310bbd73" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aH2x6rYCqcs2twwwaSz7IWe7VE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\MetodiPatcheMusicSchoolWebsite\images" />
+      <recent name="C:\xampp\htdocs\MetodiPatcheMusicSchoolWebsite\libraries" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce8cb6cc-dd3c-4b6c-bda0-5f69310bbd73" name="Default Changelist" comment="" />
+      <created>1586378441803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586378441803</updated>
+      <workItem from="1586378449093" duration="44857000" />
+      <workItem from="1586713467584" duration="10123000" />
+      <workItem from="1588669506410" duration="44000" />
+      <workItem from="1588671714785" duration="765000" />
+      <workItem from="1589142653645" duration="12908000" />
+      <workItem from="1589631792338" duration="213000" />
+      <workItem from="1591791217949" duration="16220000" />
+      <workItem from="1591870457048" duration="59950000" />
+      <workItem from="1592141094739" duration="71133000" />
+      <workItem from="1593033163573" duration="48160000" />
+      <workItem from="1601632861663" duration="16429000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1593248135455">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1593248135455" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1601635328692">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1601635328692" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593035520287" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1593115688897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1593115688897" />
+    <state x="339" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1593171615963">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1593171615963" />
+  </component>
+</project>
